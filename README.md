@@ -1,3 +1,5 @@
+Final grade: 125/100
+
 ## Lem-in
 ---
 
